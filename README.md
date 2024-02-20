@@ -19,3 +19,8 @@
 
 <h4>-Cardápio :camera:</h2>   
 <img src="https://github.com/rapharzk/projeto-pizzaria/blob/master/assets/cardapio1.png?raw=true" alt="cardapio"/>
+<br>
+<br>
+
+<h4>-Tela Celular :camera:</h2>  
+<img src="https://github.com/rapharzk/projeto-pizzaria/blob/master/assets/celular.png?raw=true" alt="tela-celular"/>
